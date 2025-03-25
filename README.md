@@ -14,7 +14,9 @@ Network Usage
 The App requires an internet connection to:
 
 Load advertisements
-Process one-time purchases and subscriptions,However, general usage of the App does not require an active network connection.
+
+Process one-time purchases and subscriptions, However, general usage of the App does not require an active network connection.
+
 Managing Subscriptions
 
 If you subscribe to premium features, your subscription is managed by Apple. You can cancel or modify your subscription at any time through your Apple ID settings in the App Store.
